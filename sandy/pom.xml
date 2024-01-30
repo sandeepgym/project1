@@ -9,7 +9,7 @@
 
     <name>Modern Java RPC stack using Jetty+Jersey+Jackson+MessagePack (from https://github.com/making/msgpack-rpc-jersey-blank)</name>
 
-    <parent>
+    <parent>  
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.2.7.RELEASE</version>
